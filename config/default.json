@@ -1,0 +1,15 @@
+{
+    
+  "APP_NAME": "Terrologic",
+  "HOST": "127.0.0.1",
+  "PORT": 3000,
+  "DB_CONNECTION": "mongodb",
+  "IS_CLUSTERID": true,
+  "DB_HOST": "terro.backend.mongodb.net",
+  "DB_PORT": "27017",
+  "DB_DATABASE": "Backend",
+  "DB_USERNAME": "terrologic-readwrite",
+  "DB_PASSWORD": "XpD2AZUGa344bB5L",
+  "jwtSecret": "mysecrettoken",
+  "endepwd": "d6F3Efeq"
+}
